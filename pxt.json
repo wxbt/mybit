@@ -1,0 +1,21 @@
+{
+    "name": "mybit",
+    "version": "3.0",
+    "description": "Extension for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
+        "IR": "github:wxbt/IR",
+        "sonar": "github:wxbt/sonar"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/mybit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
